@@ -2,7 +2,7 @@
 
 I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly KQL queries associated to Microsoft 365 Defender and Microsoft Sentinel as well as notes for various cyber security tools that I use for investigations and analysis.
 
-### Repositories
+### Repositories navigation
 - [KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) (all things KQL for security)
 - [MaltegoCE](https://github.com/cyb3rmik3/MaltegoCE) (notes about API access for Maltego Community Edition)
 - [DFIR-Notes](https://github.com/cyb3rmik3/DFIR-Notes) (notes about DFIR tools)
