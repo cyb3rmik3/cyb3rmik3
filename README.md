@@ -4,7 +4,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 
 ### Repositories navigation
 - [KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) (all things KQL for security)
-- [MDE curated list of resources for DFIR](https://github.com/cyb3rmik3/MDE-DFIR-Resources) (KAPE, THOR, Powershell scripts)
+- [MDE curated list of resources for DFIR](https://github.com/cyb3rmik3/MDE-DFIR-Resources) (KQL, KAPE, THOR, Powershell scripts)
 - [MaltegoCE](https://github.com/cyb3rmik3/MaltegoCE) (notes about API access for Maltego Community Edition)
 - [DFIR-Notes](https://github.com/cyb3rmik3/DFIR-Notes) (notes about DFIR tools)
 - [bsidesath2021](https://github.com/cyb3rmik3/bsidesath2021) (references for BSidesAth2021 presentation)
