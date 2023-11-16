@@ -59,7 +59,7 @@ EMo75FCSVEWTij45qrnQUzW0had8EPWO1kSKyGai1XRuPHLd7dOcQpFGasAGzrNQ
 </details>
 
 <details>
-  <summary><b>Disclaimer&nbsp;🔒</b></summary>
+  <summary><b>Disclaimer&nbsp;📔</b></summary>
   <br/>
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of the employer.
 </details>
