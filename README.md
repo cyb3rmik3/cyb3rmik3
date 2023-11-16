@@ -8,7 +8,6 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 - [MaltegoCE](https://github.com/cyb3rmik3/MaltegoCE) (notes about API access for Maltego Community Edition)
 - [DFIR-Notes](https://github.com/cyb3rmik3/DFIR-Notes) (notes about DFIR tools)
 - [bsidesath2021](https://github.com/cyb3rmik3/bsidesath2021) (references for BSidesAth2021 presentation)
-- [PGPKey](https://github.com/cyb3rmik3/PGPKey) (send me an encrypted email)
 
 <details>
   <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
