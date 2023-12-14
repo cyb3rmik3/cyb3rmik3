@@ -9,7 +9,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 - [DFIR-Notes](https://github.com/cyb3rmik3/DFIR-Notes) (notes about DFIR tools)
 - [bsidesath2021](https://github.com/cyb3rmik3/bsidesath2021) (references for BSidesAth2021 presentation)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=radical)
 
 <details>
   <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
