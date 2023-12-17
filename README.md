@@ -3,9 +3,9 @@
 I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly KQL queries associated to Microsoft 365 Defender and Microsoft Sentinel as well as notes and resources for various cyber security tools that I use for investigations and analysis.
 
 <div id="badges">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response?style=flat-square&color=purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics?style=flat-square&color=purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20THreat%20Intelligence?style=flat-square&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20THreat%20Intelligence-purple">
 </div>
 
 ### Repositories navigation
