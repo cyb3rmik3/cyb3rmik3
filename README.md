@@ -1,6 +1,6 @@
 ### Hi there 👋 you have found good karma, and with that, some cyber security resources.
 
-I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly KQL queries associated to Microsoft 365 Defender and Microsoft Sentinel as well as notes and resources for various cyber security tools that I use for investigations and analysis.
+I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly KQL queries associated to Microsoft Defender XDR (Formerly known as 365 Defender) and Microsoft Sentinel as well as notes and resources for various cyber security tools that I use for investigations and analysis.
 
 <div id="badges">
   <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-purple">
