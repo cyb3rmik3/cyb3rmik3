@@ -9,6 +9,8 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
   <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20THreat%20Intelligence-purple">
 </div>
 
+---
+
 ### Repositories navigation
 - [KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) (all things KQL for security)
 - [MDE curated list of resources for DFIR](https://github.com/cyb3rmik3/MDE-DFIR-Resources) (KQL, KAPE, THOR, Powershell scripts)
