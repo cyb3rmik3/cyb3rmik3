@@ -6,7 +6,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 <div id="badges">
   <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20THreat%20Intelligence-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-purple">
 </div>
 
 ---
