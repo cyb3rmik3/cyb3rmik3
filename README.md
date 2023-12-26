@@ -7,7 +7,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
   <img alt="Static Badge" src="https://img.shields.io/badge/Incident%20Response-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-purple">
-</div>\
+
 ```html
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0417d347-d395-4541-834c-83364caf05b7" data-share-badge-host="https://www.credly.com"></div>
 ```
