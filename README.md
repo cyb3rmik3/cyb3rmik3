@@ -8,6 +8,10 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
   <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-purple">
 
+##### View my verified badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ---
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true)
 
