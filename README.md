@@ -37,9 +37,10 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 | Title | Date |
 | ------------- | ------------- |
 | [Kusto Insights - December Update](https://kustoinsights.substack.com/p/kusto-insights-december-update)  | 02/01/2024 |
-|  ||
-| [Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
-  [WScript to VBS file invoking PowerShell](https://github.com/cyb3rmik3/KQL-threat-hunting-queries/blob/main/01.ThreatHunting/wscript-vbs-spawning-suspicious-processes.md)  
+| [Forensic Focus Digital Forensics Round-Up](https://www.forensicfocus.com/news/digital-forensics-round-up-november-30-2023/) | 30/11/2023 |
+| [Endpointcave Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
+| [Detection Engineering Weekly #47](https://www.detectionengineering.net/p/det-eng-weekly-47-my-gpt-is-hallucinating) | 15/11/2023 |
+
 ---
 
 ```
