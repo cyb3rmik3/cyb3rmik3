@@ -27,10 +27,6 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 
 ---
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=holi)
-
-<details>
-  <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
-  <br/>
 ---
 
 ##### Featured
@@ -41,7 +37,9 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 | [Endpointcave Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
 | [Detection Engineering Weekly #47](https://www.detectionengineering.net/p/det-eng-weekly-47-my-gpt-is-hallucinating) | 15/11/2023 |
 
----
+<details>
+  <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
+  <br/>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
