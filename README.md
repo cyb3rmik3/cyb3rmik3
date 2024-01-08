@@ -32,11 +32,14 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
   <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
   <br/>
 ---
+
 ##### Featured
 | Title | Date |
 | ------------- | ------------- |
 | [Kusto Insights - December Update](https://kustoinsights.substack.com/p/kusto-insights-december-update)  | 02/01/2024 |
+|  ||
 | [Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
+  [WScript to VBS file invoking PowerShell](https://github.com/cyb3rmik3/KQL-threat-hunting-queries/blob/main/01.ThreatHunting/wscript-vbs-spawning-suspicious-processes.md)  
 ---
 
 ```
