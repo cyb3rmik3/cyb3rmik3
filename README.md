@@ -37,6 +37,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 | ------------- | ------------- |
 | [Kusto Insights - December Update](https://kustoinsights.substack.com/p/kusto-insights-december-update)  | 02/01/2024 |
 | [Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
+---
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
