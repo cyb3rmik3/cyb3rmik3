@@ -32,6 +32,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 ### As featured in
 | Title | Date |
 | ------------- | ------------- |
+| [KQL Security Sources - 2024 Update](https://kqlquery.com/posts/kql-sources-2024-update/)  | 14/01/2024 |
 | [Kusto Insights - December Update](https://kustoinsights.substack.com/p/kusto-insights-december-update)  | 02/01/2024 |
 | [Forensic Focus Digital Forensics Round-Up](https://www.forensicfocus.com/news/digital-forensics-round-up-november-30-2023/) | 30/11/2023 |
 | [Endpointcave Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
