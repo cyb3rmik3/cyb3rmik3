@@ -32,6 +32,8 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 ### As featured in
 | Title | Date |
 | ------------- | ------------- |
+| [Tech news for the week of April 8th, 2024](https://www.linkedin.com/pulse/tech-news-week-april-8th-2024-ryan-parsons-oanqe/)  | 08/04/2024 |
+| [This week in 4n6 newsletter](https://thisweekin4n6.com/2024/03/31/week-13-2024/)  | 31/03/2024 |
 | [The Generatrive Partner Crucible](https://www.linkedin.com/pulse/weekending-february-9-2023-marc-andr%2525C3%2525A9-morisset-43mve%3FtrackingId=kwJ9%252FElxQG%252BIdSat7d0Mlg%253D%253D/?trackingId=kwJ9%2FElxQG%2BIdSat7d0Mlg%3D%3D)  | 09/02/2024 |
 | [KQL Security Sources - 2024 Update](https://kqlquery.com/posts/kql-sources-2024-update/)  | 14/01/2024 |
 | [Kusto Insights - December Update](https://kustoinsights.substack.com/p/kusto-insights-december-update)  | 02/01/2024 |
