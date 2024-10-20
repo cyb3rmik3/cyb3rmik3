@@ -8,7 +8,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
   <img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Forensics-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-purple">
 
-##### Liked my work? Consider donating! :)
+##### Liked my work? Consider fueling me with a coffee! :)
 <a href='https://ko-fi.com/H2H81503B5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ---
