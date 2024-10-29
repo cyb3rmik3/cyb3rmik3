@@ -18,6 +18,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 ### As featured in
 | Title | Date |
 | ------------- | ------------- |
+| [ElasticIQ Ransomware in the Cloud: Scattered Spider Targeting Insurance and Financial Industries](https://blog.eclecticiq.com/ransomware-in-the-cloud-scattered-spider-targeting-insurance-and-financial-industries) | 02/10/2024 |
 | [Endpointcave Newsletter July 2024](https://endpointcave.com/newsletter/newsletter-july-2024/) | 14/07/2024 |
 | [This week in 4n6 newsletter](https://thisweekin4n6.com/2024/06/30/week-26-2024/)  | 30/06/2024 |
 | [Kusto Insights - April Update](https://kustoinsights.substack.com/p/kusto-insights-april-update)  | 07/05/2024 |
