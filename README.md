@@ -16,6 +16,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 ---
 
 ### As featured in
+<details>
 | Title | Date |
 | ------------- | ------------- |
 | [ElasticIQ Ransomware in the Cloud: Scattered Spider Targeting Insurance and Financial Industries](https://blog.eclecticiq.com/ransomware-in-the-cloud-scattered-spider-targeting-insurance-and-financial-industries) | 02/10/2024 |
@@ -30,7 +31,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 | [Forensic Focus Digital Forensics Round-Up](https://www.forensicfocus.com/news/digital-forensics-round-up-november-30-2023/) | 30/11/2023 |
 | [Endpointcave Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
 | [Detection Engineering Weekly #47](https://www.detectionengineering.net/p/det-eng-weekly-47-my-gpt-is-hallucinating) | 15/11/2023 |
-
+</details>
 <details>
   <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
   <br/>
