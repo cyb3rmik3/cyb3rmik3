@@ -15,8 +15,10 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=holi)
 ---
 
-### As featured in
 <details>
+  <summary><b>As featured in</b></summary>
+  <br/>
+  
 | Title | Date |
 | ------------- | ------------- |
 | [ElasticIQ Ransomware in the Cloud: Scattered Spider Targeting Insurance and Financial Industries](https://blog.eclecticiq.com/ransomware-in-the-cloud-scattered-spider-targeting-insurance-and-financial-industries) | 02/10/2024 |
@@ -32,6 +34,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 | [Endpointcave Newsletter #6 2023](https://endpointcave.com/newsletter/newsletter-6-2023/) | 19/11/2023 |
 | [Detection Engineering Weekly #47](https://www.detectionengineering.net/p/det-eng-weekly-47-my-gpt-is-hallucinating) | 15/11/2023 |
 </details>
+
 <details>
   <summary><b>PGP&nbsp;Public&nbsp;Key&nbsp;🔒</b></summary>
   <br/>
