@@ -13,6 +13,7 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 
 ---
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=holi)
+![cyb3rmik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=radical)
 ---
 
 <details>
