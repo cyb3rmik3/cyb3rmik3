@@ -12,9 +12,6 @@ I'm Michalis Michalos (aka cyb3rmik3) and in this github you will find primarly 
 <a href='https://ko-fi.com/H2H81503B5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ---
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=holi)
-![cyb3rmik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3rmik3&show_icons=true&theme=radical)
----
 
 <details>
   <summary><b>As featured in</b></summary>
